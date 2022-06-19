@@ -11,7 +11,7 @@ export default function App() {
       </div>
       <footer>
         This was coded by{" "}
-        <a href="https://github.com/luisakiefer">Luisa </a>
+        <a href="https://github.com/luisakiefer">Luisa Kiefer</a>
       </footer>
     </div>
   );
