@@ -17,6 +17,10 @@
   line-height: 29px;
 }
 
+.Weather h1 {
+  margin-bottom: 10px;
+}
+
 .Weather ul {
   margin: 0;
   padding: 0;
@@ -31,7 +35,7 @@
 }
 
 .Weather img {
-  height: 42px;
+  height: 48px;
   margin-right: 10px;
 }
 
@@ -47,3 +51,4 @@
   position: relative;
   top: -19px;
 }
+
