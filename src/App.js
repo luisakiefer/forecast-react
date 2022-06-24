@@ -16,7 +16,7 @@ export default function App() {
           target="_blank"
           rel="noreferrer"
         >
-          Luisa Kiefer
+          Luisa Kiefer{" "}
         </a>
         and is open-sourced on{" "}
         <a
