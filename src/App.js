@@ -10,8 +10,27 @@ export default function App() {
         <Weather defaultCity="Porto Alegre" />
       </div>
       <footer>
-        This was coded by{" "}
-        <a href="https://github.com/luisakiefer">Luisa Kiefer</a>
+        This project was coded by{" "}
+        <a
+          href="https://github.com/luisakiefer"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Luisa Kiefer
+        </a>
+        and is open-sourced on{" "}
+        <a
+          href="https://github.com/luisakiefer/forecast-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>{" "}
+        and hosted on{" "}
+        <a href="https://netlify.com" target="_blank" rel="noreferrer">
+          Netlify
+        </a>
+        .
       </footer>
     </div>
   );
